@@ -14,7 +14,7 @@ menu:
       url: /about-me
       weight: 20
     - identifier: experience
-      name: Experience
+      name: Experiences
       url: /experience
       weight: 30
     - identifier: projects

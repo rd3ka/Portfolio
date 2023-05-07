@@ -4,7 +4,7 @@ description: 'List of some applications/programs already made but implemented/cl
 dateString: April, 2020
 ---
 
-# [Yet Another Weather App](https://github.com/rd3ka/YAWeather)
+# 🔗 [Yet Another Weather App](https://github.com/rd3ka/YAWeather)
 ![](../ss_01.png)
 
 ### Motivation
@@ -31,7 +31,7 @@ To compile tailwindcss into normal css:
 npm run tailwind
 ```
 
-# [Yet Another Quiz App](https://github.com/rd3ka/YAQuiz)
+# 🔗 [Yet Another Quiz App](https://github.com/rd3ka/YAQuiz)
 ![](../screenshot-04.png)
 
 As the name suggests, YAQuiz is yet another basic `JavaScript` webapp working as a wrapper for [OpenTriviaDB](https://opentdb.com/).
@@ -43,7 +43,7 @@ With the rapid growth of web and web based technologies, I started to think how 
 ### Behind the Scene
 For the front-end structure and styling, `HTML` & `CSS` is used and back-end is handled by vanilla `JavaScript`. Data is fetched using `fetch` API from [OpenTriviaDB](https://opentdb.com/). 
 
-# [Yet Another Email Administration System](https://github.com/rd3ka/YetAnotherEmailAdminAPI)
+# 🔗 [Yet Another Email Administration System](https://github.com/rd3ka/YetAnotherEmailAdminAPI)
 
 ### Purpose
 The main development of this project started back in the year 2021. This project is a guided
