@@ -3,8 +3,9 @@ title: '"Yet Another" Applications'
 description: 'List of some applications/programs already made but implemented/cloned and written by me for the purpose of learning'
 dateString: April, 2020
 cover:
-    image: https://i.imgflip.com/6v4p06.jpg
+    image: projects/learnMeme.jpg
 tags: ["HTML", "CSS", "JS", "Tailwind", "Webapp"]
+weight: 3
 ---
 
 # 🔗 [Yet Another Weather App](https://github.com/rd3ka/YAWeather)

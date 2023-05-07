@@ -3,7 +3,7 @@ title: 8051SimGuide
 description: Automation script for the use of edsim8051
 dateString: April, 2020
 cover:
-    image: https://blog.soliditech.com/hubfs/2021_7-Benefits-of-Business-Process-Automation_1200x600.png
+    image: projects/automation.png
 tags: ["automation","mpmc", "python", "bash", "powershell"]
 weight: 2
 ---

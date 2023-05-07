@@ -3,7 +3,7 @@ title: High Dynamic Range Image Render
 description: High level implementation of High Dynamic Image processing pipeline using OpenCV
 dateString: Nov, 2021
 cover:
-    image: https://developer.playcanvas.com/images/user-manual/graphics/physical-rendering/ibl-hdr-ldr.jpg
+    image: projects/ibl-hdr-ldr.jpg
 tags: ["cmake","c++","opencv","image processing","linux"]
 weight: 1
 ---
