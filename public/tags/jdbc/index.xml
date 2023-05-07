@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JDBC on rvktiw</title>
+    <link>https://rvktiw.netlify.app/tags/jdbc/</link>
+    <description>Recent content in JDBC on rvktiw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://rvktiw.netlify.app/tags/jdbc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intern</title>
+      <link>https://rvktiw.netlify.app/experience/wiprointern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rvktiw.netlify.app/experience/wiprointern/</guid>
+      <description>Wipro Limited - Talent Transformation (Remote)</description>
+    </item>
+    
+  </channel>
+</rss>

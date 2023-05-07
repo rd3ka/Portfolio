@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rvktiw</title>
+    <link>https://rvktiw.netlify.app/</link>
+    <description>Recent content on rvktiw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://rvktiw.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>High Dynamic Range Image Render</title>
+      <link>https://rvktiw.netlify.app/projects/hdr-render/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rvktiw.netlify.app/projects/hdr-render/</guid>
+      <description>High level implementation of High Dynamic Image processing pipeline using OpenCV</description>
+    </item>
+    
+    <item>
+      <title>System Engineer L1</title>
+      <link>https://rvktiw.netlify.app/experience/wiproftime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rvktiw.netlify.app/experience/wiproftime/</guid>
+      <description>Wipro Limited - Cybersecurity &amp;amp; Risk Services (Kolkata, West Bengal)</description>
+    </item>
+    
+    <item>
+      <title>8051SimGuide</title>
+      <link>https://rvktiw.netlify.app/projects/8051simguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rvktiw.netlify.app/projects/8051simguide/</guid>
+      <description>Automation script for the use of edsim8051</description>
+    </item>
+    
+    <item>
+      <title>Intern</title>
+      <link>https://rvktiw.netlify.app/experience/wiprointern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rvktiw.netlify.app/experience/wiprointern/</guid>
+      <description>Wipro Limited - Talent Transformation (Remote)</description>
+    </item>
+    
+    <item>
+      <title>&#34;Yet Another&#34; Applications</title>
+      <link>https://rvktiw.netlify.app/projects/yetanother/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rvktiw.netlify.app/projects/yetanother/</guid>
+      <description>List of some applications/programs already made but implemented/cloned and written by me for the purpose of learning</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://rvktiw.netlify.app/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rvktiw.netlify.app/about-me/</guid>
+      <description>Hello World!. My name is Raktim Deka. My pronouns are he/him. I am 23 years young. My keywords are Minimalism and Matte Black Everything ^ random picture of me My interest in tech started with handheld consoles from Sony. I was one of the few lucky kids to own a playstation portable back in the day. One major challenge I faced was the fact that the proprietary game disks costed a lot of money.</description>
+    </item>
+    
+    <item>
+      <title>Engineering Undergraduate</title>
+      <link>https://rvktiw.netlify.app/experience/university/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rvktiw.netlify.app/experience/university/</guid>
+      <description>University Of Engineering &amp;amp; Management, Kolkata</description>
+    </item>
+    
+  </channel>
+</rss>
