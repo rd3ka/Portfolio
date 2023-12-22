@@ -4,7 +4,7 @@ ShowBreadCrumbs: false
 draft: false
 ---
 `Hello World!`. My name is Raktim Deka. My pronouns are <u>he/him</u>. 
-I am 23 years young. My keywords are **Minimalism** and **Matte Black Everything**
+I am 24 years young. My keywords are **Minimalism** and **Matte Black Everything**
 ![](me-picture.jpg#center) <p style="text-align:center;"> <font size="2"> ^ random picture of me </font> </p>
 
 My interest in tech started with handheld consoles from *Sony*. I was one of the few lucky kids
