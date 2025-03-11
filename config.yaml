@@ -34,13 +34,13 @@ params:
   profileMode:
     enabled: true
     title: "Raktim Deka"
-    subtitle: "programmer 👨‍💻 - tech enthusiast ⌨️  - linux evangelist 🐧"
+    subtitle: "👨‍💻"
     imageUrl: "home/avataaars.svg"
     imageWidth: 200
     imageHeight: 200
     buttons:
-      - name: Resume
-        url: "https://drive.google.com/file/d/1icfDXNoltHr930BfRH90gjyArZbM8BiY/view?usp=share_link"
+      - name: résumé
+        url: "https://drive.google.com/file/d/1NtGfJpl2GcKPJCtkv7C9AX98jA_uMMEi/view?usp=sharing"
 
   hideDescriptionInList: false
 

@@ -8,9 +8,9 @@ showToc: false
 weight: 2
 ---
 ![](../wipro_colored.svg?width=150&height=150#center)
-- Remote Apprenticeship cum training program, where interns were designated a role in various different teams
-- Responsible for project based learning and delivery i.e plan, learn, code and put into production
-- Trained in technologies like -
-  - **Backend**  - Jakarta Enterprise Edition, Java database connectivity, Java Servlet Pages
-  - **Database** - MySQL
-  - **Frontend** - Hypertext markup language, Cascading style sheets, Bootstrap, Javascript, Angular
+- Participated in a structured remote apprenticeship program, where I was assigned to cross-functional teams to gain hands-on experience in real-world projects.
+- Led end-to-end project delivery, including planning, learning, development, and deployment into production environments.
+- Acquired expertise in a variety of technologies, including:
+  - **Backend Development**  - Jakarta Enterprise Edition (Jakarta EE), Java Database Connectivity (JDBC), Java Servlet Pages (JSP).
+  - **Database Management** - MySQL
+  - **Frontend Development** - HTML, CSS, Bootstrap, JavaScript, and Angular

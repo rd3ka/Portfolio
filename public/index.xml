@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rvktiw</title>
+    <link>http://localhost:1313/Portfolio/</link>
+    <description>Recent content on rvktiw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyst</title>
+      <link>http://localhost:1313/Portfolio/experience/wiproftime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/experience/wiproftime/</guid>
+      <description>Wipro Limited - Cybersecurity &amp;amp; Risk Services (Kolkata, West Bengal)</description>
+    </item>
+    
+    <item>
+      <title>High Dynamic Range Image Render</title>
+      <link>http://localhost:1313/Portfolio/projects/hdr-render/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/projects/hdr-render/</guid>
+      <description>High level implementation of High Dynamic Image processing pipeline using OpenCV</description>
+    </item>
+    
+    <item>
+      <title>8051SimGuide</title>
+      <link>http://localhost:1313/Portfolio/projects/8051simguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/projects/8051simguide/</guid>
+      <description>Automation script for the use of edsim8051</description>
+    </item>
+    
+    <item>
+      <title>Intern</title>
+      <link>http://localhost:1313/Portfolio/experience/wiprointern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/experience/wiprointern/</guid>
+      <description>Wipro Limited - Talent Transformation (Remote)</description>
+    </item>
+    
+    <item>
+      <title>&#34;Yet Another&#34; Applications</title>
+      <link>http://localhost:1313/Portfolio/projects/yetanother/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/projects/yetanother/</guid>
+      <description>List of some applications/programs already made but implemented/cloned and written by me for the purpose of learning</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/Portfolio/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/about-me/</guid>
+      <description>Hello World!🌍 My name is Raktim Deka (pronouns: he/him), and I’m 25 years young! I’m all about minimalism and matte black everything—because why settle for less when you can keep it sleek and simple? ^ Comic Con Kolkata 2025 My love for tech started with Sony’s handheld consoles. I was one of the lucky kids who owned a PlayStation Portable (PSP) back in the day. But here’s the twist: the official game disks were crazy expensive!</description>
+    </item>
+    
+    <item>
+      <title>Engineering Undergraduate</title>
+      <link>http://localhost:1313/Portfolio/experience/university/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/experience/university/</guid>
+      <description>University Of Engineering &amp;amp; Management, Kolkata</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Automation on rvktiw</title>
+    <link>http://localhost:1313/Portfolio/tags/automation/</link>
+    <description>Recent content in Automation on rvktiw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/Portfolio/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8051SimGuide</title>
+      <link>http://localhost:1313/Portfolio/projects/8051simguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/projects/8051simguide/</guid>
+      <description>Automation script for the use of edsim8051</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on rvktiw</title>
+    <link>http://localhost:1313/Portfolio/tags/</link>
+    <description>Recent content in Tags on rvktiw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Access Management</title>
+      <link>http://localhost:1313/Portfolio/tags/access-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/access-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:1313/Portfolio/tags/automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bash</title>
+      <link>http://localhost:1313/Portfolio/tags/bash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>http://localhost:1313/Portfolio/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cmake</title>
+      <link>http://localhost:1313/Portfolio/tags/cmake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/cmake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COA</title>
+      <link>http://localhost:1313/Portfolio/tags/coa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/coa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Core Java</title>
+      <link>http://localhost:1313/Portfolio/tags/core-java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/core-java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>http://localhost:1313/Portfolio/tags/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyber</title>
+      <link>http://localhost:1313/Portfolio/tags/cyber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/cyber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devices</title>
+      <link>http://localhost:1313/Portfolio/tags/devices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/devices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directory Services</title>
+      <link>http://localhost:1313/Portfolio/tags/directory-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/directory-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECE</title>
+      <link>http://localhost:1313/Portfolio/tags/ece/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/ece/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forgerock</title>
+      <link>http://localhost:1313/Portfolio/tags/forgerock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/forgerock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>http://localhost:1313/Portfolio/tags/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML5</title>
+      <link>http://localhost:1313/Portfolio/tags/html5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/html5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IAM</title>
+      <link>http://localhost:1313/Portfolio/tags/iam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/iam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>http://localhost:1313/Portfolio/tags/image-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J2EE</title>
+      <link>http://localhost:1313/Portfolio/tags/j2ee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/j2ee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JDBC</title>
+      <link>http://localhost:1313/Portfolio/tags/jdbc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/jdbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JS</title>
+      <link>http://localhost:1313/Portfolio/tags/js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/Portfolio/tags/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mpmc</title>
+      <link>http://localhost:1313/Portfolio/tags/mpmc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/mpmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MPNMCs</title>
+      <link>http://localhost:1313/Portfolio/tags/mpnmcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/mpnmcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networks</title>
+      <link>http://localhost:1313/Portfolio/tags/networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opencv</title>
+      <link>http://localhost:1313/Portfolio/tags/opencv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ping</title>
+      <link>http://localhost:1313/Portfolio/tags/ping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/ping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powershell</title>
+      <link>http://localhost:1313/Portfolio/tags/powershell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/powershell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/Portfolio/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remediation</title>
+      <link>http://localhost:1313/Portfolio/tags/remediation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/remediation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REST APIs</title>
+      <link>http://localhost:1313/Portfolio/tags/rest-apis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/rest-apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scripting</title>
+      <link>http://localhost:1313/Portfolio/tags/scripting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/scripting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/Portfolio/tags/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>http://localhost:1313/Portfolio/tags/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailwind</title>
+      <link>http://localhost:1313/Portfolio/tags/tailwind/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/tailwind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vulnerability</title>
+      <link>http://localhost:1313/Portfolio/tags/vulnerability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/vulnerability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webapp</title>
+      <link>http://localhost:1313/Portfolio/tags/webapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/webapp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

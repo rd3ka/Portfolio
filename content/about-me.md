@@ -3,24 +3,17 @@ title: About Me
 ShowBreadCrumbs: false
 draft: false
 ---
-`Hello World!`. My name is Raktim Deka. My pronouns are <u>he/him</u>. 
-I am 24 years young. My keywords are **Minimalism** and **Matte Black Everything**
-![](me-picture.jpg#center) <p style="text-align:center;"> <font size="2"> ^ random picture of me </font> </p>
+`Hello World!`🌍 My name is **Raktim Deka** (pronouns: he/him), and I’m 25 years young! 
+ I’m all about **minimalism** and **matte black** everything—because why settle for less 
+ when you can keep it sleek and simple?
+![](me-picture.jpg#center) <p style="text-align:center;"> <font size="2"> ^ Comic Con Kolkata 2025 </font> </p>
 
-My interest in tech started with handheld consoles from *Sony*. I was one of the few lucky kids
-to own a playstation portable back in the day. One major challenge I faced was the fact that the
-proprietary game disks costed a lot of money. With the help of my cousin we figured out that
-there were modified firmwares out in the internet when flashed could read games directly from the
-SD card, that it used. Armed with this knowledge, we had to open a compiled hexdump file to check for
-the exact model type to match with the modified firmware. Turns out hacking together parts of the original
-file taught me a lot about memory allocations, hexdumps and very little low level programming.
+My love for tech started with Sony’s handheld consoles. I was one of the lucky kids who owned a PlayStation Portable (PSP) back in the day. 
+But here’s the twist: the official game disks were crazy expensive! 💸 So, my cousin and I dove into the wild world of modified firmware—basically hacking the PSP to play games directly from the SD card. We even had to dig into hexdump files to figure out the exact model type. It was like a tech treasure hunt! 🕵️‍♂️ This adventure taught me about memory allocation, hexdumps, and a bit of low-level programming. Pretty cool, right?
 
-Fast forward to current day, I am working in a service based multinational company
-as a **Level 1 System Engineer**, on *vulnerability management* & *remediation services* for 
-enterprise systems and applications.
+Fast forward to today, I’m a Cybersecurity Analyst at Wipro Limited, where I work on securing enterprise systems and applications. I specialize in integrating authentication protocols like OpenID Connect, OAuth 2.0, and SAML 2.0, and I’ve built custom scripts to automate workflows and enhance security. Think of me as the guy who keeps things running smoothly while making sure they’re locked down tight! 🔒💻
 
-Besides corporate, I talk about <u>programming</u>, <u>problem solving</u>, <u>linux</u> and <u>automation</u>.
-I also spread the use of _free-opensource-software_ i.e FOSS technologies and how open source is the backbone 
-of nearly all software technology.
- 
+Outside of work, I’m all about programming, problem-solving, Linux, and automation. I’m also a huge advocate for free and open-source software (FOSS). Seriously, open source is the secret sauce behind almost all the tech we use today!
+
+Let’s geek out together and build something awesome! 😄
 
