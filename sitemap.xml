@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rd3ka.github.io/Portfolio/projects/hdr-render/</loc>
-  </url><url>
     <loc>https://rd3ka.github.io/Portfolio/experience/wiproftime/</loc>
+  </url><url>
+    <loc>https://rd3ka.github.io/Portfolio/projects/hdr-render/</loc>
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/projects/8051simguide/</loc>
   </url><url>
@@ -13,6 +13,8 @@
     <loc>https://rd3ka.github.io/Portfolio/projects/yetanother/</loc>
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/about-me/</loc>
+  </url><url>
+    <loc>https://rd3ka.github.io/Portfolio/tags/access-management/</loc>
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/tags/automation/</loc>
   </url><url>
@@ -30,7 +32,11 @@
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/tags/css/</loc>
   </url><url>
+    <loc>https://rd3ka.github.io/Portfolio/tags/cyber/</loc>
+  </url><url>
     <loc>https://rd3ka.github.io/Portfolio/tags/devices/</loc>
+  </url><url>
+    <loc>https://rd3ka.github.io/Portfolio/tags/directory-services/</loc>
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/tags/ece/</loc>
   </url><url>
@@ -38,11 +44,13 @@
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/experience/</loc>
   </url><url>
+    <loc>https://rd3ka.github.io/Portfolio/tags/forgerock/</loc>
+  </url><url>
     <loc>https://rd3ka.github.io/Portfolio/tags/html/</loc>
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/tags/html5/</loc>
   </url><url>
-    <loc>https://rd3ka.github.io/Portfolio/tags/idam/</loc>
+    <loc>https://rd3ka.github.io/Portfolio/tags/iam/</loc>
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/tags/image-processing/</loc>
   </url><url>
@@ -62,15 +70,21 @@
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/tags/opencv/</loc>
   </url><url>
+    <loc>https://rd3ka.github.io/Portfolio/tags/ping/</loc>
+  </url><url>
     <loc>https://rd3ka.github.io/Portfolio/tags/powershell/</loc>
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/projects/</loc>
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/tags/python/</loc>
   </url><url>
-    <loc>https://rd3ka.github.io/Portfolio/tags/reporting/</loc>
+    <loc>https://rd3ka.github.io/Portfolio/tags/remediation/</loc>
+  </url><url>
+    <loc>https://rd3ka.github.io/Portfolio/tags/rest-apis/</loc>
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/</loc>
+  </url><url>
+    <loc>https://rd3ka.github.io/Portfolio/tags/scripting/</loc>
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/tags/security/</loc>
   </url><url>
@@ -80,7 +94,7 @@
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/tags/tailwind/</loc>
   </url><url>
-    <loc>https://rd3ka.github.io/Portfolio/tags/vm/</loc>
+    <loc>https://rd3ka.github.io/Portfolio/tags/vulnerability/</loc>
   </url><url>
     <loc>https://rd3ka.github.io/Portfolio/tags/webapp/</loc>
   </url>

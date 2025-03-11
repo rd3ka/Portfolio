@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>iDAM on rvktiw</title>
-    <link>https://rd3ka.github.io/Portfolio/tags/idam/</link>
-    <description>Recent content in iDAM on rvktiw</description>
+    <title>IDAM on rvktiw</title>
+    <link>http://localhost:1313/Portfolio/tags/idam/</link>
+    <description>Recent content in IDAM on rvktiw</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rd3ka.github.io/Portfolio/tags/idam/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/Portfolio/tags/idam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>System Engineer L1</title>
-      <link>https://rd3ka.github.io/Portfolio/experience/wiproftime/</link>
+      <link>http://localhost:1313/Portfolio/experience/wiproftime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rd3ka.github.io/Portfolio/experience/wiproftime/</guid>
+      <guid>http://localhost:1313/Portfolio/experience/wiproftime/</guid>
       <description>Wipro Limited - Cybersecurity &amp;amp; Risk Services (Kolkata, West Bengal)</description>
     </item>
     
